@@ -1,7 +1,7 @@
 const testimonials = [
   {
     quote:
-      "Whitepace is designed as a collaboration tool for businesses that is a full project management solution.",
+      "Whitespace is designed as a collaboration tool for businesses that is a full project management solution.",
     name: "Oberon Shaw, MCH",
     title: "Head of Talent Acquisition, North America",
     image: "https://randomuser.me/api/portraits/women/44.jpg",
@@ -9,7 +9,7 @@ const testimonials = [
   },
   {
     quote:
-      "Whitepace is designed as a collaboration tool for businesses that is a full project management solution.",
+      "Whitespace is designed as a collaboration tool for businesses that is a full project management solution.",
     name: "Oberon Shaw, MCH",
     title: "Head of Talent Acquisition, North America",
     image: "https://randomuser.me/api/portraits/men/32.jpg",
@@ -17,7 +17,7 @@ const testimonials = [
   },
   {
     quote:
-      "Whitepace is designed as a collaboration tool for businesses that is a full project management solution.",
+      "Whitespace is designed as a collaboration tool for businesses that is a full project management solution.",
     name: "Oberon Shaw, MCH",
     title: "Head of Talent Acquisition, North America",
     image: "https://randomuser.me/api/portraits/men/65.jpg",
